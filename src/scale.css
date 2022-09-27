@@ -1,0 +1,13 @@
+.row{
+    display:grid;
+    justify-content: center;
+    grid-gap: 7%;
+    grid-template-columns: repeat(11,calc(2%));
+    width:100%;
+    padding: 0;
+    
+}
+.vertical{
+    height:300;
+    width:1300;
+}
